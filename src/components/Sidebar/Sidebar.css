@@ -1,0 +1,13 @@
+.Sidebar {
+  flex: 0 0 20%;
+}
+.Sidebar button {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  cursor: pointer;
+  border: 0;
+  background: #fff;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
