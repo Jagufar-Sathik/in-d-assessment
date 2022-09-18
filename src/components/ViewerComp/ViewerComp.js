@@ -11,7 +11,7 @@ const ViewerComp = (props) => {
         height: 800,
       }}
     >
-      <Viewer fileUrl="in-d-assessment/Contract-Breach.pdf" plugins={[props.plugins]} />
+      <Viewer fileUrl="/Contract-Breach.pdf" plugins={[props.plugins]} />
     </div>
   );
 };
